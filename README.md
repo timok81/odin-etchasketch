@@ -1,1 +1,1 @@
-# odin-etchasketch
+This is a student assignment for the odin project. The goal is to use javascript and DOM manipulation to create a simple "etch-a-sketch"-like app.
